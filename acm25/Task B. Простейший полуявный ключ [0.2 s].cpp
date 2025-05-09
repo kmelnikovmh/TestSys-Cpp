@@ -1,3 +1,6 @@
+
+// Created 22.04.2025 by Melnikov Kirill
+
 #include <iostream>
 #include <unordered_map>
 #include <string>

@@ -1,3 +1,6 @@
+
+// Created 15.04.2025 by Melnikov Kirill
+
 #include <vector>
 #include <iostream>
 #include "optimization.h"
